@@ -37,23 +37,3 @@ while (months <= 12):
 print 'RESULT'
 print 'Total amount paid:', "$" + str(total_paid)
 print 'Remaining balance:', "$" + str(balance)
-
-##print
-##minimum_payment_amount = balance*minimum_payment_percent
-##print "Minimum monthly payment: $",round(minimum_payment_amount) #minimum monthly payment
-##monthly_interest_percent = annual_interest_percent/12
-##principle_paid = minimum_payment_amount-(monthly_interest_percent*balance)
-##print "Principal paid: $",principle_paid #principle paid
-##remaining_balance = balance-principle_paid
-##print "Reamaining balance: $",remaining_balance #remaining balance
-##
-##x = 1
-##while remaining balance <= balance
-##    x = x + 1
-##for "month x" in range (1,12)
-##
-##print "RESULT"
-##print "Total amount paid: $"
-##print "Remaining balance: $"
-##month =
-##while month
